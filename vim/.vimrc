@@ -34,7 +34,7 @@ set tm=500
 
 syntax enable
 
-colorscheme murphy
+colorscheme candy
 set background=dark
 
 set ffs=mac,unix,dos
