@@ -29,7 +29,9 @@ set novisualbell
 set t_vb=
 set tm=500
 
+set fileformat=unix
 
+set guifont=Menlo\ Regular:h14
 
 
 syntax enable
