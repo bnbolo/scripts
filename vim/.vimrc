@@ -36,7 +36,7 @@ set guifont=Menlo\ Regular:h14
 
 syntax enable
 
-colorscheme candy
+colorscheme solarized
 set background=dark
 
 set ffs=mac,unix,dos
